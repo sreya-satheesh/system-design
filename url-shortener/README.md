@@ -199,7 +199,7 @@ app.get('/:shortUrl', async (req, res) => {
 - Load Balancer - NGINX, AWS ALB
 - Deployment - AWS, GCP, Azure
 
-## Key Takeaways
+## Quick Recap
 
 **What is a URL shortener?** A service that converts long URLs into short, unique links while preserving redirection.
 
