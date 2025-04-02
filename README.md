@@ -1,6 +1,6 @@
 # System Design
 
-A collection of essential system design problems with architecture overviews, database design, scalability strategies, and best practices.
+A roadmap to mastering system design—covering architectures, databases, and scalability strategies to build efficient, high-performing systems. 
 
 ## Index
 
