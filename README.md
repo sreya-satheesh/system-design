@@ -4,5 +4,4 @@ A roadmap to mastering system design—covering architectures, databases, and sc
 
 ## Index
 
-### URL Shortener
-- [URL Shortener](./url-shortener/README.md)  
+- URL Shortener : https://vocal.media/education/designing-a-url-shortener
