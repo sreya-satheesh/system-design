@@ -4,6 +4,10 @@ A roadmap to mastering system design—covering architectures, databases, and sc
 
 ## Index
 
-### HLD
+### High-Level Design
 
-- URL Shortener : https://vocal.media/education/designing-a-url-shortener
+- Designing a URL Shortener : https://vocal.media/education/designing-a-url-shortener
+
+### Low-Level Design
+
+- Design a Parking Lot System : https://vocal.media/education/design-a-parking-lot-system
