@@ -4,4 +4,6 @@ A roadmap to mastering system design—covering architectures, databases, and sc
 
 ## Index
 
+### HLD
+
 - URL Shortener : https://vocal.media/education/designing-a-url-shortener
